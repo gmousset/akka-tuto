@@ -1,1 +1,1 @@
-# akka-tuto
+# akka-scala-tuto
