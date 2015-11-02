@@ -1,0 +1,381 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Listener$$anonfun$receive$1.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Listener.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Master$$anonfun$receive$1.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Master.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Calculate$.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Calculate.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Pi$$anonfun$1.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Pi$.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Pi$delayedInit$body.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Pi.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/PiApproximation$.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/PiApproximation.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/PiMessage.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Result$.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Result.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Work$.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Work.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Worker$$anonfun$calculatePiFor$1.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Worker$$anonfun$receive$1.class
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Worker.class
+binary dependencies:
+13 items
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> /Users/gwendalmousset/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> /Users/gwendalmousset/Softs/activator-dist-1.3.6/repository/com.typesafe.akka/akka-actor_2.11/2.3.11/jars/akka-actor_2.11.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> /Users/gwendalmousset/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> /Users/gwendalmousset/Softs/activator-dist-1.3.6/repository/com.typesafe.akka/akka-actor_2.11/2.3.11/jars/akka-actor_2.11.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Softs/activator-dist-1.3.6/repository/com.typesafe.akka/akka-actor_2.11/2.3.11/jars/akka-actor_2.11.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> /Users/gwendalmousset/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> /Users/gwendalmousset/Softs/activator-dist-1.3.6/repository/com.typesafe.akka/akka-actor_2.11/2.3.11/jars/akka-actor_2.11.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> /Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> com.exp.calculation.Listener
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> com.exp.calculation.Listener$$anonfun$receive$1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> com.exp.calculation.Master
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> com.exp.calculation.Master$$anonfun$receive$1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> com.exp.calculation.Master$$anonfun$receive$1$$anonfun$applyOrElse$1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Calculate
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Calculate$
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Pi
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Pi$
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Pi$$anonfun$1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Pi$delayedInit$body
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.PiApproximation
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.PiApproximation$
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.PiMessage
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Result
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Result$
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Work
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com.exp.calculation.Work$
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> com.exp.calculation.Worker
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> com.exp.calculation.Worker$$anonfun$calculatePiFor$1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> com.exp.calculation.Worker$$anonfun$receive$1
+used names:
+208 items
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> <init>
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> A1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> Actor
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> B1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> Function1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> Listener
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> Predef
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> actor
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> akka
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> apply
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> asInstanceOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> augmentString
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> calculation
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> com
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> context
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> duration
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> exp
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> format
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> isInstanceOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> pi
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> println
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> shutdown
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> system
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> unchecked
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> !
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> *
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> +
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> -
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> <init>
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> ==
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> A1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Actor
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> ActorRef
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> B1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Calculate
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> ClassTag
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Double
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Duration
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Function1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Int
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Long
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Master
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Predef
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Props
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> RoundRobinRouter
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> System
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> Worker
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> actor
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> actorOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> actorRef2Scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> akka
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> apply
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> asInstanceOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> calculation
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> com
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> concurrent
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> context
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> currentTimeMillis
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> duration
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> exp
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> foreach
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> i
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> intWrapper
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> isInstanceOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> java
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> lang
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> listener
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> materializeClassTag
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> nrOfElements
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> nrOfMessages
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> nrOfResults
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> nrOfResults_=
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> nrOfWorkers
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> package
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> pi
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> pi_=
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> println
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> routing
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> self
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> start
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> stop
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> unchecked
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> until
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> value
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> welcomeMessage
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> withRouter
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> workerRouter
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> !
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> &&
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> <init>
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> ==
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> AbstractFunction1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> AbstractFunction2
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> ActorSystem
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> AnyRef
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> App
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Calculate
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> ClassTag
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> ConfigFactory
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Double
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Duration
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> FileReader
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Int
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Listener
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Master
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> None
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Pi
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> PiApproximation
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> PiMessage
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Predef
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Product
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Props
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Result
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> ScalaRunTime
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Serializable
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Statics
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Unit
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> Work
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> _toString
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> actor
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> actorOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> actorRef2Scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> akka
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> anyHash
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> apply
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> asInstanceOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> augmentString
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> calculate
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> calculation
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> com
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> concurrent
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> config
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> doubleHash
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> duration
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> eq
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> exp
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> finalizeHash
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> format
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> io
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> isInstanceOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> java
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> listener
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> master
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> materializeClassTag
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> mix
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> nrOfElement
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> nrOfElements
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> nrOfMessages
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> nrOfWorkers
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> package
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> pi
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> println
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> qual$1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> runtime
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> start
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> system
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> toString
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> typedProductIterator
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> typesafe
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> value
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> x$1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> x$2
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> ||
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> !
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> %
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> *
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> +
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> -
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> /
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> <init>
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> A1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> Actor
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> B1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> Double
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> Function1
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> Int
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> Predef
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> Worker
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> acc
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> actor
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> actorRef2Scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> akka
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> apply
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> asInstanceOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> augmentString
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> calculatePiFor
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> calculation
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> com
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> exp
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> foreach
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> format
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> i
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> intWrapper
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> isInstanceOf
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> nrOfElement
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> nrOfElements
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> package
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> preStart
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> println
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> scala
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> self
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> sender
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> start
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> unchecked
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> until
+product stamps:
+21 items
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Calculate$.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Calculate.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Listener$$anonfun$receive$1.class -> lastModified(1446481164000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Listener.class -> lastModified(1446481164000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Master$$anonfun$receive$1.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Master.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Pi$$anonfun$1.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Pi$.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Pi$delayedInit$body.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Pi.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/PiApproximation$.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/PiApproximation.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/PiMessage.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Result$.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Result.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Work$.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Work.class -> lastModified(1446481558000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Worker$$anonfun$calculatePiFor$1.class -> lastModified(1446481164000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Worker$$anonfun$receive$1.class -> lastModified(1446481164000)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/target/scala-2.11/classes/com/exp/calculation/Worker.class -> lastModified(1446481164000)
+source stamps:
+4 items
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> hash(8ac7186057c040b664ff0cf756d3596bf2b71ebb)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> hash(6d5c6ca7a21b2b65181a570c8f57fad22726e22d)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> hash(6edaf423823481fb8f9937ad4111950f584a60b3)
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> hash(3d88e44c920f726a659fe66b318e019db3f76097)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
+/Users/gwendalmousset/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1417684534000)
+/Users/gwendalmousset/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+/Users/gwendalmousset/Softs/activator-dist-1.3.6/repository/com.typesafe.akka/akka-actor_2.11/2.3.11/jars/akka-actor_2.11.jar -> lastModified(1441274364000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/gwendalmousset/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+/Users/gwendalmousset/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.App
+/Users/gwendalmousset/Softs/activator-dist-1.3.6/repository/com.typesafe.akka/akka-actor_2.11/2.3.11/jars/akka-actor_2.11.jar -> akka.actor.ActorRefFactory
+internal apis:
+4 items
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBSGJTZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwZAohT3QABHNlbGZzcQB+AAtQNkp9dAAHY29udGV4dHVxAH4ACQAAACNzcQB+AAunHAaIdAAGbm90aWZ5c3EAfgALp8Lri3QAB1JlY2VpdmVzcQB+AAtKsIAGdAAEd2FpdHNxAH4AC1DCi2F0AA0kYXNJbnN0YW5jZU9mc3EAfgALd34VhXQABmVxdWFsc3NxAH4AC3vMMz90AAxhc0luc3RhbmNlT2ZzcQB+AAvf++hQdAAMc3luY2hyb25pemVkc3EAfgAL6b8AJXQADSRpc0luc3RhbmNlT2ZzcQB+AAvM38DmdAAHcmVjZWl2ZXNxAH4AC5r15aF0AApwcmVSZXN0YXJ0c3EAfgALRnzbjHQADWFyb3VuZFJlY2VpdmVzcQB+AAubMgSqdAALcG9zdFJlc3RhcnRzcQB+AAsMAwC0dAAIcG9zdFN0b3BzcQB+AAvhsqMXdAAJbm90aWZ5QWxsc3EAfgAL9lV0DHQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALHYZE+HQADGlzSW5zdGFuY2VPZnNxAH4AC7HU6Mx0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALMte3ynQADmFyb3VuZFBvc3RTdG9wc3EAfgALrIuvoXQACExpc3RlbmVyc3EAfgALlelLAHQABjxpbml0PnNxAH4ACwfdH9d0AAhwcmVTdGFydHNxAH4ACxNgMgJ0AAl1bmhhbmRsZWRzcQB+AAsqgY5QdAACPT1zcQB+AAtQ5wa1dAAFY2xvbmVzcQB+AAsnFvCWdAAGc2VuZGVyc3EAfgALo7OabnQACHRvU3RyaW5nc3EAfgALnM23HXQAAiE9c3EAfgAL25EucXQACGdldENsYXNzc3EAfgALT9Xd7XQAAm5lc3EAfgALGbQSKnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC000/pV0AAJlcXNxAH4AC5RG89V0AAIjI3NxAH4ACycosVx0AAhmaW5hbGl6ZXNxAH4AC4DZH9F0AAhoYXNoQ29kZXNxAH4ACw0ehkB0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxjb20uZXhwLmNhbGN1bGF0aW9uLkxpc3RlbmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB6eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB5AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AIJzcQB+AHkBdXEAfgBcAAAAAHBzcQB+AHkBdXEAfgBcAAAAAHBzcQB+AHkBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCBdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJp0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCbc3EAfgCOdAAGT2JqZWN0c3EAfgCSc3EAfgCVdXEAfgCYAAAAA3NxAH4AmnQABGphdmFzcQB+AJp0AARsYW5ncQB+AKFzcQB+AI50AANBbnlzcQB+AJJzcQB+AJV1cQB+AJgAAAACc3EAfgCadAAFc2NhbGFxAH4AoXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAHY29tLmV4cHNxAH4AtHQAA2NvbXNxAH4AtHQAE2NvbS5leHAuY2FsY3VsYXRpb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVDI/uO/dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQATC9Vc2Vycy9nd2VuZGFsbW91c3NldC9Qcm9qZWN0cy9UTVAvQWtrYTAwMS9Ba2thMDAxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSKxxhgV8BAtmT/DPdW01lr8rceuw==
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD+U2DfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw/Sxp93QABHNlbGZzcQB+AAs/NQ7TdAAHY29udGV4dHVxAH4ACQAAAChzcQB+AAvrPRCcdAAGbm90aWZ5c3EAfgALpNXpu3QAB1JlY2VpdmVzcQB+AAuj13u6dAACcGlzcQB+AAvUWc66dAAEd2FpdHNxAH4AC+0oAVh0AAZNYXN0ZXJzcQB+AAtu9fl6dAANJGFzSW5zdGFuY2VPZnNxAH4ACz/RQFB0AAZlcXVhbHNzcQB+AAsjVW8JdAAMYXNJbnN0YW5jZU9mc3EAfgALEooDQ3QADHN5bmNocm9uaXplZHNxAH4ACwlddr10AA53ZWxjb21lTWVzc2FnZXNxAH4AC0+bEHh0AA0kaXNJbnN0YW5jZU9mc3EAfgALvYG7rnQAB3JlY2VpdmVzcQB+AAuL7F/jdAAKcHJlUmVzdGFydHNxAH4AC9ztYsN0AA1hcm91bmRSZWNlaXZlc3EAfgALgErEj3QAC3Bvc3RSZXN0YXJ0c3EAfgALyQF+WHQACHBvc3RTdG9wc3EAfgALdnzZsnQACW5vdGlmeUFsbHNxAH4AC/q4G0Z0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACxN6HLF0AAxpc0luc3RhbmNlT2ZzcQB+AAsd+51QdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC0WdsOh0AA5hcm91bmRQb3N0U3RvcHNxAH4AC48N8450AAY8aW5pdD5zcQB+AAvXcvVAdAAIcHJlU3RhcnRzcQB+AAsWcW1zdAAJdW5oYW5kbGVkc3EAfgALGS6vCnQAAj09c3EAfgALD4Vma3QABWNsb25lc3EAfgALlDeFR3QABnNlbmRlcnNxAH4AC30WA8J0AAh0b1N0cmluZ3NxAH4AC2a3D2t0AAtuck9mUmVzdWx0c3NxAH4AC9lS5kx0AAx3b3JrZXJSb3V0ZXJzcQB+AAti/QmgdAACIT1zcQB+AAuxbaXCdAAIZ2V0Q2xhc3NzcQB+AAuTdIKRdAAFc3RhcnRzcQB+AAufF9QcdAACbmVzcQB+AAtoq5pTdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALYAIhB3QAAmVxc3EAfgAL+eWl23QAAiMjc3EAfgALtkiwBHQACGZpbmFsaXplc3EAfgALTSLrInQACGhhc2hDb2Rlc3EAfgALBaDzIHQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Aa3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAGmNvbS5leHAuY2FsY3VsYXRpb24uTWFzdGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCEeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCDAHBzcQB+AIhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Aa0wACWluaGVyaXRlZHEAfgBrTAAHcGFyZW50c3EAfgBreHEAfgCMc3EAfgCDAHBzcQB+AIh1cQB+AGYAAAAAc3EAfgCDAHBzcQB+AIh1cQB+AGYAAAAAc3EAfgCDAHBzcQB+AIh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIt0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ai3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AqHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKlzcQB+AJx0AAZPYmplY3RzcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCodAAEamF2YXNxAH4AqHQABGxhbmdxAH4Ar3NxAH4AnHQAA0FueXNxAH4AoHNxAH4Ao3VxAH4ApgAAAAJzcQB+AKh0AAVzY2FsYXEAfgCvdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAHY29tLmV4cHNxAH4AwnQAA2NvbXNxAH4AwnQAE2NvbS5leHAuY2FsY3VsYXRpb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVDJBPfcdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQATC9Vc2Vycy9nd2VuZGFsbW91c3NldC9Qcm9qZWN0cy9UTVAvQWtrYTAwMS9Ba2thMDAxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRtXGynohsrZRgaVwyPV/rSJybiLQ==
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDY7lPSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCzrz9J0AAZub3RpZnlzcQB+AAxlrAGDdAAIZHVyYXRpb25zcQB+AAwOGmq+dAACcGlzcQB+AAwEk53OdAAEd2FpdHNxAH4ADAwwPsB0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADM6eBfB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMhJTH9nQADHByb2R1Y3RBcml0eXNxAH4ADOSYFqR0AAZlcXVhbHNzcQB+AAzguVmldAAMYXNJbnN0YW5jZU9mc3EAfgAMbCXel3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMHpguAHQAD1BpQXBwcm94aW1hdGlvbnNxAH4ADJ5ziJB0AAxzeW5jaHJvbml6ZWRzcQB+AAxLA4RrdAANJGlzSW5zdGFuY2VPZnNxAH4ADAYXeFF0AAhjYW5FcXVhbHNxAH4ADMb2GjV0AARtYWluc3EAfgAM/5VG43QADXByb2R1Y3RQcmVmaXhzcQB+AAzEbO0HdAAJbm90aWZ5QWxsc3EAfgAMQoe6Z3QAC3JlYWRSZXNvbHZlc3EAfgAMTKHhxnQAAlBpc3EAfgAMMJw6wnQADGlzSW5zdGFuY2VPZnNxAH4ADCG0g0R0AARXb3Jrc3EAfgAMuJNxknQABjxpbml0PnNxAH4ADH2HdsJ0AAljYWxjdWxhdGVzcQB+AAw+Dt0OdAACPT1zcQB+AAzja1ZWdAAFY2xvbmVzcQB+AAxuTd8CdAALbnJPZkVsZW1lbnRzcQB+AAxvLfRIdAAJQ2FsY3VsYXRlc3EAfgAM6o4mjnQACVBpTWVzc2FnZXNxAH4ADMzZBCF0AARjb3B5c3EAfgAMVrwKRnQACHRvU3RyaW5nc3EAfgAMPKoeK3QABGFyZ3NzcQB+AAwvy/TDdAACIT1zcQB+AAzwF+LxdAAIZ2V0Q2xhc3NzcQB+AAyMnsENdAAOY29weSRkZWZhdWx0JDFzcQB+AAw2DvPBdAAGUmVzdWx0c3EAfgAMKlKGB3QABXN0YXJ0c3EAfgAMu+dtnnQAAm5lc3EAfgAMK7cwenQABXZhbHVlc3EAfgAMOjnpgXQAAmVxc3EAfgAMoBEnH3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADC956u10AAtkZWxheWVkSW5pdHNxAH4ADElLzcJ0AAIjI3NxAH4ADMv09NZ0AAhmaW5hbGl6ZXNxAH4ADGgFYKR0AA5wcm9kdWN0RWxlbWVudHNxAH4ADAyD+vJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAZzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAl0AB1jb20uZXhwLmNhbGN1bGF0aW9uLlBpTWVzc2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ainhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AiQBwc3EAfgCOc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AknNxAH4AiQBwc3EAfgCOdXEAfgBsAAAAAHNxAH4AiQBwc3EAfgCOdXEAfgBsAAAAAHNxAH4AiQBwc3EAfgCOdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCRdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCRc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCudAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCvc3EAfgCidAADQW55c3EAfgCmc3EAfgCpdXEAfgCsAAAAAnNxAH4ArnQABXNjYWxhcQB+ALVzcQB+AG5xAH4Ae3VxAH4AfAAAAABzcQB+AH4AdAAdY29tLmV4cC5jYWxjdWxhdGlvbi5DYWxjdWxhdGV1cQB+AIEAAAAAfnEAfgCDdAAGTW9kdWxldXEAfgCHAAAAAHNxAH4AiQBwc3EAfgCOcQB+AJNzcQB+AIkAcHNxAH4AjnNxAH4AlnNxAH4AiQBwc3EAfgCOdXEAfgBsAAAAAHNxAH4AiQBwc3EAfgCOdXEAfgBsAAAAAHNxAH4AiQBwc3EAfgCOdXEAfgCgAAAAB3NxAH4AonQADFNlcmlhbGl6YWJsZXNxAH4ApnNxAH4AqXVxAH4ArAAAAAJzcQB+AK5xAH4AvHEAfgC1c3EAfgCicQB+ANRzcQB+AKZzcQB+AKl1cQB+AKwAAAADc3EAfgCucQB+ALFzcQB+AK50AAJpb3EAfgC1c3EAfgCidAAHUHJvZHVjdHEAfgDVc3EAfgCidAAGRXF1YWxzcQB+ANVzcQB+AKJ0AAlQaU1lc3NhZ2VzcQB+AKZzcQB+AKl1cQB+AKwAAAAEc3EAfgCudAADY29tc3EAfgCudAADZXhwc3EAfgCudAALY2FsY3VsYXRpb25xAH4AtXNxAH4AonEAfgClc3EAfgCmc3EAfgCpdXEAfgCsAAAAA3NxAH4ArnEAfgCxc3EAfgCucQB+ALNxAH4AtXNxAH4AonEAfgC3cQB+ANVzcQB+AG5xAH4Ae3VxAH4AfAAAAABzcQB+AH4AdAAYY29tLmV4cC5jYWxjdWxhdGlvbi5Xb3JrdXEAfgCBAAAAAH5xAH4Ag3QACENsYXNzRGVmdXEAfgCHAAAAAHNxAH4AiQBwc3EAfgCOcQB+AJNzcQB+AIkAcHNxAH4AjnNxAH4AlnNxAH4AiQBwc3EAfgCOdXEAfgBsAAAAAHNxAH4AiQBwc3EAfgCOdXEAfgBsAAAAAHNxAH4AiQBwc3EAfgCOdXEAfgCgAAAAB3NxAH4AonEAfgDUc3EAfgCmc3EAfgCpdXEAfgCsAAAAAnNxAH4ArnEAfgC8cQB+ALVzcQB+AKJxAH4A1HNxAH4ApnNxAH4AqXVxAH4ArAAAAANzcQB+AK5xAH4AsXNxAH4ArnQAAmlvcQB+ALVzcQB+AKJxAH4A4XEAfgENc3EAfgCidAAGRXF1YWxzcQB+AQ1zcQB+AKJ0AAlQaU1lc3NhZ2VzcQB+AKZzcQB+AKl1cQB+AKwAAAAEc3EAfgCudAADY29tc3EAfgCudAADZXhwc3EAfgCudAALY2FsY3VsYXRpb25xAH4AtXNxAH4AonEAfgClc3EAfgCmc3EAfgCpdXEAfgCsAAAAA3NxAH4ArnEAfgCxc3EAfgCucQB+ALNxAH4AtXNxAH4AonEAfgC3cQB+AQ1zcQB+AG5xAH4Ae3VxAH4AfAAAAABzcQB+AH4AdAAaY29tLmV4cC5jYWxjdWxhdGlvbi5SZXN1bHR1cQB+AIEAAAAAcQB+APt1cQB+AIcAAAAAc3EAfgCJAHBzcQB+AI5xAH4Ak3NxAH4AiQBwc3EAfgCOc3EAfgCWc3EAfgCJAHBzcQB+AI51cQB+AGwAAAAAc3EAfgCJAHBzcQB+AI51cQB+AGwAAAAAc3EAfgCJAHBzcQB+AI51cQB+AKAAAAAHc3EAfgCicQB+ANRzcQB+AKZzcQB+AKl1cQB+AKwAAAACc3EAfgCucQB+ALxxAH4AtXNxAH4AonEAfgDUc3EAfgCmc3EAfgCpdXEAfgCsAAAAA3NxAH4ArnEAfgCxc3EAfgCudAACaW9xAH4AtXNxAH4AonEAfgDhcQB+AUJzcQB+AKJ0AAZFcXVhbHNxAH4BQnNxAH4AonQACVBpTWVzc2FnZXNxAH4ApnNxAH4AqXVxAH4ArAAAAARzcQB+AK50AANjb21zcQB+AK50AANleHBzcQB+AK50AAtjYWxjdWxhdGlvbnEAfgC1c3EAfgCicQB+AKVzcQB+AKZzcQB+AKl1cQB+AKwAAAADc3EAfgCucQB+ALFzcQB+AK5xAH4As3EAfgC1c3EAfgCicQB+ALdxAH4BQnNxAH4AbnEAfgB7dXEAfgB8AAAAAHNxAH4AfgB0ACNjb20uZXhwLmNhbGN1bGF0aW9uLlBpQXBwcm94aW1hdGlvbnVxAH4AgQAAAABxAH4A+3VxAH4AhwAAAABzcQB+AIkAcHNxAH4AjnEAfgCTc3EAfgCJAHBzcQB+AI5zcQB+AJZzcQB+AIkAcHNxAH4AjnVxAH4AbAAAAABzcQB+AIkAcHNxAH4AjnVxAH4AbAAAAABzcQB+AIkAcHNxAH4AjnVxAH4AoAAAAAZzcQB+AKJxAH4A1HNxAH4ApnNxAH4AqXVxAH4ArAAAAAJzcQB+AK5xAH4AvHEAfgC1c3EAfgCicQB+ANRzcQB+AKZzcQB+AKl1cQB+AKwAAAADc3EAfgCucQB+ALFzcQB+AK50AAJpb3EAfgC1c3EAfgCicQB+AOFxAH4Bd3NxAH4AonQABkVxdWFsc3EAfgF3c3EAfgCicQB+AKVzcQB+AKZzcQB+AKl1cQB+AKwAAAADc3EAfgCucQB+ALFzcQB+AK5xAH4As3EAfgC1c3EAfgCicQB+ALdxAH4Bd3NxAH4AbnEAfgB7dXEAfgB8AAAAAHNxAH4AfgB0ABZjb20uZXhwLmNhbGN1bGF0aW9uLlBpdXEAfgCBAAAAAHEAfgDCdXEAfgCHAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AiQBwc3EAfgCOcQB+AJNzcQB+AIkAcHNxAH4AjnNxAH4AlnNxAH4AiQBwc3EAfgCOdXEAfgBsAAAAAHNxAH4AiQBwc3EAfgCOdXEAfgBsAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBycQB+AHt1cQB+AHwAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgGgeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4AonQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgCmc3EAfgCpdXEAfgCsAAAAAnNxAH4ArnEAfgC8cQB+ALVzcQB+AH4AcQB+ACt1cQB+AIEAAAAAc3EAfgCidAAEVW5pdHEAfgGvdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4BoHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AhHQABVBsYWlucQB+AEtzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AKNbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJFzcQB+AKJ0AAVBcnJheXEAfgGvdXEAfgCgAAAAAXNxAH4AonQABlN0cmluZ3NxAH4ApnNxAH4AqXVxAH4ArAAAAANzcQB+AK5xAH4AsXNxAH4ArnEAfgCzcQB+ALVzcQB+AIkAcHNxAH4AjnVxAH4AoAAAAARzcQB+AKJ0AANBcHBxAH4Br3NxAH4AonQAC0RlbGF5ZWRJbml0cQB+Aa9zcQB+AKJxAH4ApXEAfgHMc3EAfgCicQB+ALdxAH4Br3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2NvbS5leHBzcQB+Adx0AANjb21zcQB+Adx0ABNjb20uZXhwLmNhbGN1bGF0aW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQyQT33HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEwvVXNlcnMvZ3dlbmRhbG1vdXNzZXQvUHJvamVjdHMvVE1QL0Fra2EwMDEvQWtrYTAwMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUbtr0I4I0gfuPmTetQRGVD1hKYLM=
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDVOcbwAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8suq6nQABHNlbGZzcQB+AAuB9XI/dAAHY29udGV4dHVxAH4ACQAAACRzcQB+AAvQkczvdAAGbm90aWZ5c3EAfgALdBavaXQAB1JlY2VpdmVzcQB+AAvHXdzXdAAOY2FsY3VsYXRlUGlGb3JzcQB+AAuVZn99dAAEd2FpdHNxAH4ACxnH9pt0AA0kYXNJbnN0YW5jZU9mc3EAfgALUP04wHQABmVxdWFsc3NxAH4AC0wXsAF0AAxhc0luc3RhbmNlT2ZzcQB+AAuFY2vRdAAMc3luY2hyb25pemVkc3EAfgALigVimHQADSRpc0luc3RhbmNlT2ZzcQB+AAtmpkhFdAAHcmVjZWl2ZXNxAH4AC5BLuuF0AApwcmVSZXN0YXJ0c3EAfgALlGedl3QADWFyb3VuZFJlY2VpdmVzcQB+AAvKGeZSdAALcG9zdFJlc3RhcnRzcQB+AAuDCSordAAIcG9zdFN0b3BzcQB+AAtYm1OsdAAJbm90aWZ5QWxsc3EAfgALI8p5zHQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALg/X2dHQADGlzSW5zdGFuY2VPZnNxAH4AC3Ac8SJ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALAfRxgnQADmFyb3VuZFBvc3RTdG9wc3EAfgALJcBXanQABjxpbml0PnNxAH4AC34YYyd0AAhwcmVTdGFydHNxAH4AC4y9Hjx0AAl1bmhhbmRsZWRzcQB+AAs/Ygm8dAACPT1zcQB+AAuEaCnidAAFY2xvbmVzcQB+AAsJAYK3dAAGc2VuZGVyc3EAfgAL0/Y5WHQACHRvU3RyaW5nc3EAfgAL+UAhVXQAAiE9c3EAfgAL1k2euXQACGdldENsYXNzc3EAfgALQTRu+HQABldvcmtlcnNxAH4AC6tptLB0AAJuZXNxAH4AC0cwIBZ0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAtLS3+7dAACZXFzcQB+AAsXOVa8dAACIyNzcQB+AAvj97gvdAAIZmluYWxpemVzcQB+AAv8R2lndAAIaGFzaENvZGVzcQB+AAtNFdOgdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAaY29tLmV4cC5jYWxjdWxhdGlvbi5Xb3JrZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGNMAAlpbmhlcml0ZWRxAH4AY0wAB3BhcmVudHNxAH4AY3hxAH4AhHNxAH4AewF1cQB+AF4AAAAAcHNxAH4AewF1cQB+AF4AAAAAcHNxAH4AewF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIN0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ag3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AnHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ1zcQB+AJB0AAZPYmplY3RzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCcdAAEamF2YXNxAH4AnHQABGxhbmdxAH4Ao3NxAH4AkHQAA0FueXNxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJx0AAVzY2FsYXEAfgCjcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAdjb20uZXhwc3EAfgC2dAADY29tc3EAfgC2dAATY29tLmV4cC5jYWxjdWxhdGlvbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUMj+4791cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABML1VzZXJzL2d3ZW5kYWxtb3Vzc2V0L1Byb2plY3RzL1RNUC9Ba2thMDAxL0Fra2EwMDEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFD2I5EySD3JqZZ/mazGOAZ2z92CX
+external apis:
+0 items
+source infos:
+4 items
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Listener.scala -> 
+AAAAAAAAAAA=
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Master.scala -> 
+AAAAAAAAAAA=
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Pi.scala -> 
+AAAAAAAAAAA=
+/Users/gwendalmousset/Projects/TMP/Akka001/Akka001/src/main/scala/com/exp/calculation/Worker.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUMj+4791cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9nd2VuZGFsbW91c3NldC9Qcm9qZWN0cy9UTVAvQWtrYTAwMS9Ba2thMDAxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUMkA+Ah1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9nd2VuZGFsbW91c3NldC9Qcm9qZWN0cy9UTVAvQWtrYTAwMS9Ba2thMDAxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUMkE99x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9nd2VuZGFsbW91c3NldC9Qcm9qZWN0cy9UTVAvQWtrYTAwMS9Ba2thMDAxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
