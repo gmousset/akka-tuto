@@ -1,2 +1,2 @@
 # akka-scala-tuto
-# expérimentations
+# expérimentations diverses
